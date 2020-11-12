@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Максим Ананьев](https://up.htmlacademy.ru/adaptive/21/user/360027).
-* Наставник: `Неизвестно`.
+* Наставник: [Юрий Мамаев](https://htmlacademy.ru/profile/id888525).
 
 ---
 
