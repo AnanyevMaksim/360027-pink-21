@@ -1,0 +1,44 @@
+.button {
+  display: block;
+  border: 3px solid @white;
+  border-radius: 29px;
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+
+  &--post {
+    color: @pink;
+    border: 3px solid @pink;
+
+    &:hover {
+      color: @white;
+      background-color: @pink;
+    }
+
+    &:active {
+      color: @white-opacity;
+      background-color: @pink;
+    }
+  }
+
+  &--cancel {
+    color: @blue-primary;
+    border: 3px solid @blue-primary;
+    opacity: 0.1;
+
+    &:hover {
+      color: @blue-primary;
+      border: 3px solid @blue-primary;
+      opacity: 0.3;
+    }
+
+    &:active {
+      color: @white;
+      background-color: @blue-primary;
+      opacity: 0.3;
+    }
+  }
+}
